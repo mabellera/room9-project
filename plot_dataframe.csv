@@ -1,0 +1,12 @@
+Indicaor,ga_observedRate,va_observedRate
+03 - Pressure Ulcer,0,12.19
+06 - Iatrogenic Pneumothorax,0.16,0
+07 - CLAB Infections,0.58,0.86
+08 - Postop Hip Fracture,0.86,0.68
+09 - Postop Hemorrhage or Hematoma,1.01,0.7
+10 - Postop Physiologic and Metabolic Derangements,2,1.85
+11 - Postop Respiratory Failure,2.69,3.54
+12 - Postop Pulmonary Embolism or DVT,7.45,13.87
+13 - Postop Sepsis,9.74,13.56
+14 - Postop Wound Dehiscence,24.32,36.03
+15 - Accidental Puncture or Laceration,54.33,57.55
