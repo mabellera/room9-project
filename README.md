@@ -1,4 +1,4 @@
-# room9-project
+# VHA Facilities Comparative Analysis
 
 Project Proposals: Comparative Analysis of measures of Veterans Affairs Hospitals between the states of Georgia and Virginia.
 
