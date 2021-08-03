@@ -36,5 +36,4 @@ Datasets to be Used: https://hifld-geoplatform.opendata.arcgis.com/datasets/geop
 
 Rough Breakdown of Tasks
 
-Note to TAs: Our current data set of two states contains 72 rows. However, multiple indicators between hostpitals and between the 2 states will be analyzed. Let us know if this is a concern and we can expand to one more state.
 
